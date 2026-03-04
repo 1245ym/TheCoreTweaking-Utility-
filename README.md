@@ -130,4 +130,4 @@ MIT License- ⚡ 60+ real system tweaks
 
 Run the utility here
 
-➡️ irm https://raw.githubusercontent.com/1245ym/YMs-Ultra-Lean-Optimization-Utility/refs/heads/main/YMs-Ultra-Lean-Optimization-Utility.ps1 | iex 
+➡️ irm https://raw.githubusercontent.com/1245ym/TheCoreTweaking-Utility-/refs/heads/main/YMs-Ultra-Lean-Optimization-Utility.ps1 | iex 
