@@ -1,4 +1,4 @@
-# 🚀 Ultra Lean Windows Optimization Utility(COMING SOON,I AM UPGRADING IT)
+# 🚀 Ultra Lean Windows Optimization Utility
 
 SCROLL ALL THE WAY TO THE BOTTOM FOR THE UTILITY LAUNCHER ⬇️
 FIRST READ MY README.MD FIRST (RECOMMENDED)
