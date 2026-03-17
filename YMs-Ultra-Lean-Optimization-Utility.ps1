@@ -2,7 +2,7 @@ Add-Type -AssemblyName System.Windows.Forms, System.Drawing
 
 [System.Windows.Forms.Application]::EnableVisualStyles()
 
-# --- DEFINE SECTIONS AND TWEAKS ---
+# --- DEFINE SECTIONS AND TWEAKS --- 
 $Sections = @{}
 
 # --- Gaming Performance (15 tweaks) ---
